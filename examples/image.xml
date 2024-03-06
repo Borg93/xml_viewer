@@ -1,0 +1,351 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Swedish National Archives</Creator>
+        <Created>2023-06-08, 15:15:22</Created>
+    </Metadata>
+    <Page imageFilename="image" imageWidth="5429" imageHeight="4256">
+    <TextRegion id="region_0" custom="readingOrder {index:0;}">
+        <Coords points="2676,611 549,649 518,2639 572,3799 2461,3812 2739,3770"/>
+        <TextLine id="line_0_0" custom="readingOrder {index:0;}">
+            <Coords points="2686,659 2659,627 2568,619 2567,601 2383,601 2382,619 1250,630 1030,647 726,632 658,666 696,725 900,747 1792,712 2224,733 2381,703 2663,699"/>
+            <TextEquiv>
+                <Unicode>Rättegångs fullmakt in blanco för J. A. Rude¬</Unicode>
+            </TextEquiv>
+        </TextLine>
+        <TextLine id="line_0_1" custom="readingOrder {index:1;}">
+            <Coords points="2690,777 2659,725 2459,748 575,752 555,790 571,843 651,848 1978,843 2660,815"/>
+            <TextEquiv>
+                <Unicode>berg eller den han i sitt ställe förordnar i mål vid</Unicode>
+            </TextEquiv>
+        </TextLine>
+        <TextLine id="line_0_2" custom="readingOrder {index:2;}">
+            <Coords points="2696,894 2664,858 2403,843 2018,869 969,874 577,855 555,908 583,956 1901,946 2066,978 2293,938 2664,936 2691,923"/>
+            <TextEquiv>
+                <Unicode>Litz härads rätt emot min man J. O. Nilsson en¬</Unicode>
+            </TextEquiv>
+        </TextLine>
+        <TextLine id="line_0_3" custom="readingOrder {index:3;}">
+            <Coords points="2671,983 2516,965 2155,987 1733,973 574,994 544,1019 541,1067 568,1098 1351,1064 1651,1070 1776,1105 1903,1071 2059,1102 2097,1077 2213,1059 2645,1049 2668,1029"/>
+            <TextEquiv>
+                <Unicode>gående skilnad i äktenskapet; egande ombudet</Unicode>
+            </TextEquiv>
+        </TextLine>
+        <TextLine id="line_0_4" custom="readingOrder {index:4;}">
+            <Coords points="2702,1131 2696,1093 2665,1076 2027,1109 1864,1090 1696,1110 615,1107 552,1119 545,1182 569,1203 966,1206 1460,1185 1621,1232 1804,1175 2177,1173 2298,1201 2433,1181 2545,1203 2682,1170"/>
+            <TextEquiv>
+                <Unicode>hvars lagliga åtgärder godkännas att uppsatta stäm¬</Unicode>
+            </TextEquiv>
+        </TextLine>
+        <TextLine id="line_0_5" custom="readingOrder {index:5;}">
+            <Coords points="2695,1222 2666,1194 2223,1182 2022,1209 1541,1227 1300,1187 1178,1213 931,1194 782,1226 570,1232 544,1282 571,1324 659,1339 930,1297 2660,1276 2691,1261"/>
+            <TextEquiv>
+                <Unicode>ning och derå teckna mitt namn, försäkras Öster¬</Unicode>
+            </TextEquiv>
+        </TextLine>
+        <TextLine id="line_0_6" custom="readingOrder {index:6;}">
+            <Coords points="2698,1343 2674,1304 1250,1326 570,1349 539,1395 548,1423 1896,1399 2348,1400 2506,1428 2664,1412 2695,1384"/>
+            <TextEquiv>
+                <Unicode>sund den 29 Augusti 1895. Anika Nilson Håf Teng¬</Unicode>
+            </TextEquiv>
+        </TextLine>
+        <TextLine id="line_0_7" custom="readingOrder {index:7;}">
+            <Coords points="2683,1464 2665,1428 2137,1430 1851,1412 1668,1439 1405,1416 899,1453 569,1432 544,1472 572,1533 1630,1517 2063,1542 2219,1509 2656,1512"/>
+            <TextEquiv>
+                <Unicode>Bevittnas af: Lars Larsson Hof Tång Ol. Olsson Ny¬</Unicode>
+            </TextEquiv>
+        </TextLine>
+        <TextLine id="line_0_8" custom="readingOrder {index:8;}">
+            <Coords points="2687,1577 2660,1529 2201,1520 2023,1551 1376,1552 1218,1526 1002,1560 576,1551 553,1599 576,1645 1345,1637 1536,1659 1724,1628 2309,1615 2464,1652 2663,1615"/>
+            <TextEquiv>
+                <Unicode>hem.- vice Häradshöfdingen A. Rudeberg för¬</Unicode>
+            </TextEquiv>
+        </TextLine>
+        <TextLine id="line_0_9" custom="readingOrder {index:9;}">
+            <Coords points="2616,1687 2585,1645 2304,1622 2028,1660 1881,1659 1727,1630 1472,1672 575,1677 549,1724 575,1763 2591,1727"/>
+            <TextEquiv>
+                <Unicode>ordnas i mitt ställe. Husås den 24 Sept. 1895.</Unicode>
+            </TextEquiv>
+        </TextLine>
+        <TextLine id="line_0_10" custom="readingOrder {index:10;}">
+            <Coords points="2666,1780 2633,1754 2325,1766 2098,1743 1938,1746 1709,1786 1430,1765 1220,1794 900,1775 576,1784 547,1868 571,1892 822,1874 1094,1907 1218,1871 2539,1849 2660,1832"/>
+            <TextEquiv>
+                <Unicode>J. A. Riideberg. Bevittnas: Fr. Svensson. O. M.</Unicode>
+            </TextEquiv>
+        </TextLine>
+        <TextLine id="line_0_11" custom="readingOrder {index:11;}">
+            <Coords points="556,1913 555,1951 564,1987 615,2021 655,2019 697,1989 736,1978 822,1975 973,1979 992,1950 988,1933 972,1916 856,1912 811,1893 733,1893 694,1879 660,1874 579,1885 562,1897"/>
+            <TextEquiv>
+                <Unicode>Kyrtiom.</Unicode>
+            </TextEquiv>
+        </TextLine>
+        <TextLine id="line_0_12" custom="readingOrder {index:12;}">
+            <Coords points="715,2027 716,2073 736,2095 1176,2094 1333,2119 1467,2097 2134,2070 2383,2074 2542,2107 2621,2053 2610,1999 1785,2001 1653,1986 1518,2011 949,2015 810,1992 736,2001"/>
+            <TextEquiv>
+                <Unicode>Sedan ofvanintagna fullmakt och ansökning</Unicode>
+            </TextEquiv>
+        </TextLine>
+        <TextLine id="line_0_13" custom="readingOrder {index:13;}">
+            <Coords points="2705,2139 2694,2103 2608,2093 2430,2112 575,2120 546,2147 541,2190 569,2220 931,2234 1367,2207 1618,2227 1896,2195 2263,2215 2688,2178"/>
+            <TextEquiv>
+                <Unicode>blifvit upplästa samt från stämningen åteck¬</Unicode>
+            </TextEquiv>
+        </TextLine>
+        <TextLine id="line_0_14" custom="readingOrder {index:14;}">
+            <Coords points="2696,2232 806,2242 571,2255 542,2311 572,2338 2699,2306"/>
+            <TextEquiv>
+                <Unicode>nadt bevis inhemtats, att densamma den 15 in¬</Unicode>
+            </TextEquiv>
+        </TextLine>
+        <TextLine id="line_0_15" custom="readingOrder {index:15;}">
+            <Coords points="2687,2357 2663,2324 1984,2353 572,2365 547,2425 574,2450 1942,2429 2142,2453 2262,2429 2662,2413"/>
+            <TextEquiv>
+                <Unicode>nevarande månad svaranden delgifvits med¬</Unicode>
+            </TextEquiv>
+        </TextLine>
+        <TextLine id="line_0_16" custom="readingOrder {index:16;}">
+            <Coords points="2704,2468 2562,2443 571,2477 546,2497 540,2551 580,2583 805,2553 2665,2534 2700,2520"/>
+            <TextEquiv>
+                <Unicode>gaf svaranden käromålet och erkände, att han,</Unicode>
+            </TextEquiv>
+        </TextLine>
+        <TextLine id="line_0_17" custom="readingOrder {index:17;}">
+            <Coords points="2680,2578 2664,2547 558,2591 539,2643 571,2667 1581,2670 1913,2650 2260,2663 2659,2635"/>
+            <TextEquiv>
+                <Unicode>som icke sedan år 1891 sammanträffat med</Unicode>
+            </TextEquiv>
+        </TextLine>
+        <TextLine id="line_0_18" custom="readingOrder {index:18;}">
+            <Coords points="2703,2702 2655,2673 2073,2666 1154,2692 637,2678 559,2687 544,2746 573,2779 1824,2767 2024,2794 2306,2757 2499,2785 2693,2743"/>
+            <TextEquiv>
+                <Unicode>käranden, under de senaste fyra åren uppe¬</Unicode>
+            </TextEquiv>
+        </TextLine>
+        <TextLine id="line_0_19" custom="readingOrder {index:19;}">
+            <Coords points="2727,2825 2709,2782 2068,2800 562,2807 546,2868 573,2899 778,2892 935,2911 1078,2886 2298,2882 2704,2862"/>
+            <TextEquiv>
+                <Unicode>hållit sig i Österåsen och sammanlefvat i brotts¬</Unicode>
+            </TextEquiv>
+        </TextLine>
+        <TextLine id="line_0_20" custom="readingOrder {index:20;}">
+            <Coords points="2720,2935 2714,2905 2680,2893 2411,2914 1055,2921 852,2906 577,2921 557,2992 577,3017 1396,3002 1604,3031 1952,2995 2182,3025 2352,2993 2703,2990"/>
+            <TextEquiv>
+                <Unicode>ligt förhållande med ogifta Arbetsqvinnan Mar¬</Unicode>
+            </TextEquiv>
+        </TextLine>
+        <TextLine id="line_0_21" custom="readingOrder {index:21;}">
+            <Coords points="1106,3069 1087,3035 1019,3022 932,2986 893,3008 819,3035 772,3035 684,3053 573,3054 557,3074 554,3141 557,3152 576,3163 602,3143 652,3125 814,3103 1087,3108 1099,3098"/>
+            <TextEquiv>
+                <Unicode>gareta Lidén</Unicode>
+            </TextEquiv>
+        </TextLine>
+        <TextLine id="line_0_22" custom="readingOrder {index:22;}">
+            <Coords points="2709,3152 2694,3127 2457,3114 2185,3137 1568,3130 982,3152 766,3125 736,3133 724,3163 737,3227 941,3256 1254,3223 1884,3220 2063,3259 2234,3220 2626,3237 2700,3213"/>
+            <TextEquiv>
+                <Unicode>Det upplystes att bemälta Margareta Lidén af¬</Unicode>
+            </TextEquiv>
+        </TextLine>
+        <TextLine id="line_0_23" custom="readingOrder {index:23;}">
+            <Coords points="2714,3271 2699,3254 2505,3241 2142,3259 612,3259 573,3270 563,3317 575,3353 2586,3338 2702,3327"/>
+            <TextEquiv>
+                <Unicode>lidit den 6 Mars 1894 samt att hon icke haft barn</Unicode>
+            </TextEquiv>
+        </TextLine>
+        <TextLine id="line_0_24" custom="readingOrder {index:24;}">
+            <Coords points="1261,3423 1254,3389 1142,3377 1015,3399 904,3395 855,3383 765,3382 681,3395 571,3394 554,3409 548,3437 571,3462 1144,3459 1238,3453 1256,3442"/>
+            <TextEquiv>
+                <Unicode>med svaranden.</Unicode>
+            </TextEquiv>
+        </TextLine>
+        <TextLine id="line_0_25" custom="readingOrder {index:25;}">
+            <Coords points="2692,3483 1534,3494 763,3479 720,3492 712,3551 746,3579 2226,3577 2659,3560 2695,3548"/>
+            <TextEquiv>
+                <Unicode>Kärandeombudet anhöll om vittnes förhör med</Unicode>
+            </TextEquiv>
+        </TextLine>
+        <TextLine id="line_0_26" custom="readingOrder {index:26;}">
+            <Coords points="2727,3628 2702,3597 2505,3581 1899,3605 1732,3574 1507,3607 1298,3584 1100,3607 588,3593 568,3647 574,3679 2033,3686 2718,3663"/>
+            <TextEquiv>
+                <Unicode>Bondesonen Salomon Salomansson och Sömmer¬</Unicode>
+            </TextEquiv>
+        </TextLine>
+        <TextLine id="line_0_27" custom="readingOrder {index:27;}">
+            <Coords points="569,3746 584,3788 1895,3794 1896,3812 1905,3794 2702,3786 2738,3757 2703,3704 2041,3716 1485,3700 1322,3715 1147,3688 596,3721"/>
+            <TextEquiv>
+                <Unicode>skan Lovisa Christina Danrot, begge i Österålen, hvil¬</Unicode>
+            </TextEquiv>
+        </TextLine>
+    </TextRegion>
+    <TextRegion id="region_1" custom="readingOrder {index:1;}">
+        <Coords points="5323,574 3493,587 3185,629 3179,3302 3218,3743 5367,3720"/>
+        <TextLine id="line_1_0" custom="readingOrder {index:0;}">
+            <Coords points="5308,625 5297,598 5245,590 5244,573 5154,573 5152,591 3230,609 3209,669 3232,694 3784,712 4676,672 4898,710 5044,668 5286,662"/>
+            <TextEquiv>
+                <Unicode>ka vid upprop företrädde och, då jäf emot dom</Unicode>
+            </TextEquiv>
+        </TextLine>
+        <TextLine id="line_1_1" custom="readingOrder {index:1;}">
+            <Coords points="5323,743 5297,702 5098,688 4576,720 3264,719 3207,731 3196,793 3229,818 3707,831 4005,805 4830,789 5097,820 5299,796"/>
+            <TextEquiv>
+                <Unicode>hvarken anfördel eller kunde utletas, fingo af¬</Unicode>
+            </TextEquiv>
+        </TextLine>
+        <TextLine id="line_1_2" custom="readingOrder {index:2;}">
+            <Coords points="5327,859 5297,808 4405,837 3230,842 3200,863 3196,915 3220,949 3312,954 3555,927 4113,914 4304,931 4655,901 5177,914 5307,897"/>
+            <TextEquiv>
+                <Unicode>lägga vittnes eden, hvarpå de, om edens vigt er¬</Unicode>
+            </TextEquiv>
+        </TextLine>
+        <TextLine id="line_1_3" custom="readingOrder {index:3;}">
+            <Coords points="5327,982 5304,939 5235,926 4550,945 4341,932 4203,951 3984,936 3878,955 3233,966 3207,1002 3231,1047 4021,1048 4109,1070 4266,1025 5299,1019"/>
+            <TextEquiv>
+                <Unicode>indrade; hvar för sig hördel och sammanstäm¬</Unicode>
+            </TextEquiv>
+        </TextLine>
+        <TextLine id="line_1_4" custom="readingOrder {index:4;}">
+            <Coords points="5314,1081 5293,1057 4046,1073 3662,1059 3250,1080 3221,1119 3235,1155 5221,1137 5300,1128"/>
+            <TextEquiv>
+                <Unicode>mande berättade, att svaranden och numera</Unicode>
+            </TextEquiv>
+        </TextLine>
+        <TextLine id="line_1_5" custom="readingOrder {index:5;}">
+            <Coords points="3212,1231 3232,1281 3621,1260 3786,1313 3899,1263 4608,1253 4823,1284 4943,1250 5300,1239 5324,1226 5329,1190 5300,1161 4428,1173 4224,1141 3918,1187 3745,1172 3233,1195"/>
+            <TextEquiv>
+                <Unicode>aflidna Margareta Lidén omkring 2 1/2 år in¬</Unicode>
+            </TextEquiv>
+        </TextLine>
+        <TextLine id="line_1_6" custom="readingOrder {index:6;}">
+            <Coords points="3197,1384 4937,1382 5309,1360 5334,1346 5336,1299 5304,1271 4197,1295 4028,1261 3712,1312 3529,1294 3231,1304 3201,1325"/>
+            <TextEquiv>
+                <Unicode>till Margareta Lidens död sammantefvat i Öster¬</Unicode>
+            </TextEquiv>
+        </TextLine>
+        <TextLine id="line_1_7" custom="readingOrder {index:7;}">
+            <Coords points="5335,1386 4010,1412 3587,1390 3468,1411 3234,1411 3207,1468 3229,1496 3511,1496 3673,1514 3710,1537 3826,1497 4790,1482 4941,1512 5127,1498 5254,1512 5334,1478"/>
+            <TextEquiv>
+                <Unicode>åten, haft gemensamt hushåll och begagnat ge¬</Unicode>
+            </TextEquiv>
+        </TextLine>
+        <TextLine id="line_1_8" custom="readingOrder {index:8;}">
+            <Coords points="3910,1545 3874,1525 3754,1524 3710,1536 3634,1539 3486,1528 3361,1536 3227,1530 3202,1544 3200,1583 3208,1594 3231,1600 3626,1596 3758,1618 3791,1631 3825,1631 3876,1620 3899,1605 3910,1584"/>
+            <TextEquiv>
+                <Unicode>mensam säng.</Unicode>
+            </TextEquiv>
+        </TextLine>
+        <TextLine id="line_1_9" custom="readingOrder {index:9;}">
+            <Coords points="5316,1626 5292,1599 5124,1618 4730,1611 3789,1646 3541,1604 3391,1613 3369,1673 3392,1719 3990,1713 4306,1746 4475,1703 4631,1716 4771,1696 5273,1693 5310,1673"/>
+            <TextEquiv>
+                <Unicode>Vittnes målen upprepades för vittnena och</Unicode>
+            </TextEquiv>
+        </TextLine>
+        <TextLine id="line_1_10" custom="readingOrder {index:10;}">
+            <Coords points="5299,1774 5282,1740 5138,1722 4583,1729 4371,1751 3298,1741 3213,1752 3199,1822 3227,1842 3430,1841 3557,1872 3818,1820 5244,1812 5289,1802"/>
+            <TextEquiv>
+                <Unicode>blefvo af dem vidkända; hvarefter vittnena</Unicode>
+            </TextEquiv>
+        </TextLine>
+        <TextLine id="line_1_11" custom="readingOrder {index:11;}">
+            <Coords points="5337,1856 5305,1826 3720,1868 3427,1852 3215,1873 3173,1952 3232,1969 3311,1950 3431,1982 3460,1959 3701,1933 4025,1933 4151,1964 4328,1931 5179,1924 5326,1906"/>
+            <TextEquiv>
+                <Unicode>på begäran och enligt kärandeombudets med¬</Unicode>
+            </TextEquiv>
+        </TextLine>
+        <TextLine id="line_1_12" custom="readingOrder {index:12;}">
+            <Coords points="5335,1973 5295,1948 3350,1972 3216,1991 3203,2058 3229,2092 3388,2057 4436,2043 4678,2071 5332,2014"/>
+            <TextEquiv>
+                <Unicode>gifvande tillerkändes ersättning för inställel¬</Unicode>
+            </TextEquiv>
+        </TextLine>
+        <TextLine id="line_1_13" custom="readingOrder {index:13;}">
+            <Coords points="3196,2147 3229,2175 5115,2154 5292,2140 5313,2098 5287,2070 5095,2050 4181,2084 4013,2048 3754,2088 3548,2045 3431,2082 3206,2101"/>
+            <TextEquiv>
+                <Unicode>sen, Salomon Salomonsson med tio kronor</Unicode>
+            </TextEquiv>
+        </TextLine>
+        <TextLine id="line_1_14" custom="readingOrder {index:14;}">
+            <Coords points="3208,2264 3234,2289 5334,2262 5329,2187 4514,2193 4321,2175 4064,2197 3839,2176 3691,2197 3508,2174 3231,2202"/>
+            <TextEquiv>
+                <Unicode>och Lovisa Christina Danrot med sex kronor</Unicode>
+            </TextEquiv>
+        </TextLine>
+        <TextLine id="line_1_15" custom="readingOrder {index:15;}">
+            <Coords points="5337,2302 5237,2282 5101,2302 4295,2294 3822,2321 3257,2315 3217,2327 3205,2388 3229,2441 3309,2412 3509,2422 3744,2396 3978,2395 4106,2421 4284,2393 5144,2399 5324,2357"/>
+            <TextEquiv>
+                <Unicode>tjugufyra öre, att af käranden till dem för¬</Unicode>
+            </TextEquiv>
+        </TextLine>
+        <TextLine id="line_1_16" custom="readingOrder {index:16;}">
+            <Coords points="3196,2496 3222,2508 3633,2504 3751,2533 3847,2499 4007,2494 4064,2467 4071,2456 4010,2428 3913,2420 3542,2435 3345,2415 3310,2418 3213,2449 3202,2460"/>
+            <TextEquiv>
+                <Unicode>skotts vis utgifvas.</Unicode>
+            </TextEquiv>
+        </TextLine>
+        <TextLine id="line_1_17" custom="readingOrder {index:17;}">
+            <Coords points="3403,2561 3421,2612 4965,2601 5045,2576 5030,2531 4917,2516 4393,2532 4064,2522 3951,2541 3663,2546 3507,2505 3423,2523"/>
+            <TextEquiv>
+                <Unicode>Svaranden erkände vittnes målen.</Unicode>
+            </TextEquiv>
+        </TextLine>
+        <TextLine id="line_1_18" custom="readingOrder {index:18;}">
+            <Coords points="5329,2656 5302,2628 3488,2660 3308,2640 3271,2653 3268,2700 3301,2725 3949,2723 4069,2771 4258,2727 4418,2759 4518,2726 4828,2722 4945,2740 5299,2705"/>
+            <TextEquiv>
+                <Unicode>Kärandeombudet ingaf härpå följande prestbevis:</Unicode>
+            </TextEquiv>
+        </TextLine>
+        <TextLine id="line_1_19" custom="readingOrder {index:19;}">
+            <Coords points="5351,2776 5338,2731 4633,2753 4467,2734 4357,2764 4139,2771 3913,2734 3778,2754 3624,2738 3394,2753 3371,2775 3370,2816 3415,2843 3797,2838 3942,2871 4157,2845 4609,2833 4783,2866 4975,2827 5256,2849 5338,2825"/>
+            <TextEquiv>
+                <Unicode>Att förre Fältjägaren Jonas Olof Nilsson från</Unicode>
+            </TextEquiv>
+        </TextLine>
+        <TextLine id="line_1_20" custom="readingOrder {index:20;}">
+            <Coords points="3210,2892 3232,2952 3428,2984 3584,2962 4066,2970 4518,2948 4690,2993 4786,2961 5276,2935 5305,2901 5295,2863 4946,2848 4796,2873 4358,2854 3845,2883 3478,2874 3309,2846 3234,2854"/>
+            <TextEquiv>
+                <Unicode>Hof af nedanskrifna församling, född den 8</Unicode>
+            </TextEquiv>
+        </TextLine>
+        <TextLine id="line_1_21" custom="readingOrder {index:21;}">
+            <Coords points="3236,2977 3238,3050 3273,3069 5296,3048 5318,3012 5288,2971 4688,2986 4549,2968 4357,2983"/>
+            <TextEquiv>
+                <Unicode>December 1860 (sextio), och hans hustru Annika</Unicode>
+            </TextEquiv>
+        </TextLine>
+        <TextLine id="line_1_22" custom="readingOrder {index:22;}">
+            <Coords points="5351,3092 5333,3067 3249,3102 3236,3158 3266,3176 5140,3172 5334,3154"/>
+            <TextEquiv>
+                <Unicode>Nilsdotter, född den 25 Maj 1851 / femtio ett/, blefvo med</Unicode>
+            </TextEquiv>
+        </TextLine>
+        <TextLine id="line_1_23" custom="readingOrder {index:23;}">
+            <Coords points="5337,3242 5311,3206 5184,3193 4187,3218 3233,3204 3204,3257 3229,3294 3947,3287 4108,3331 4336,3287 5326,3272"/>
+            <TextEquiv>
+                <Unicode>hvarandra sammanvigda den 33 December 1883 /åttio¬</Unicode>
+            </TextEquiv>
+        </TextLine>
+        <TextLine id="line_1_24" custom="readingOrder {index:24;}">
+            <Coords points="5349,3331 5315,3310 4256,3309 3850,3328 3227,3319 3207,3377 3230,3406 3616,3405 3750,3429 3955,3404 5222,3400 5335,3388"/>
+            <TextEquiv>
+                <Unicode>tre), och att ingendera förut varit frånskild, samt</Unicode>
+            </TextEquiv>
+        </TextLine>
+        <TextLine id="line_1_25" custom="readingOrder {index:25;}">
+            <Coords points="5349,3440 5321,3422 4669,3439 4267,3424 3229,3446 3219,3492 3233,3517 4300,3520 4469,3547 4582,3522 5164,3520 5321,3541 5350,3527"/>
+            <TextEquiv>
+                <Unicode>att bemälde makar i äktenskap med hvarandra haf¬</Unicode>
+            </TextEquiv>
+        </TextLine>
+        <TextLine id="line_1_26" custom="readingOrder {index:26;}">
+            <Coords points="5340,3569 5309,3544 3513,3549 3234,3556 3221,3611 3243,3631 4824,3630 5336,3607"/>
+            <TextEquiv>
+                <Unicode>va en dotter och en son, som båda lefva, det varder</Unicode>
+            </TextEquiv>
+        </TextLine>
+        <TextLine id="line_1_27" custom="readingOrder {index:27;}">
+            <Coords points="5367,3682 5351,3652 4497,3648 3234,3663 3235,3721 3706,3725 3853,3748 3856,3730 4060,3724 4132,3730 4134,3748 4247,3748 4251,3730 5338,3725"/>
+            <TextEquiv>
+                <Unicode>härmed på begäran intygadt för sökande af äkten kops¬</Unicode>
+            </TextEquiv>
+        </TextLine>
+    </TextRegion>
+    </Page>
+</PcGts>

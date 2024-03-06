@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Swedish National Archives</Creator>
+        <Created>2023-07-11, 15:53:12</Created>
+    </Metadata>
+    <Page imageFilename="page_xml.xml" imageWidth="4943" imageHeight="3912">
+    <TextRegion id="region_0" custom="readingOrder {index:0;}">
+        <Coords points="3745,152 3735,128 3678,97 3659,58 3618,44 2563,65 2526,95 2528,151 2547,172 2748,186 2811,245 2872,239 2932,187 2999,176 3455,180 3622,197 3732,172"/>
+    <TextLine id="line_region_0_0" custom="readingOrder {index:0;}">
+                <Coords points="2526,103 2526,185 2747,182 2763,201 2779,182 2808,189 2805,219 2822,225 2854,190 2951,177 3207,166 3341,184 3476,168 3602,181 3709,157 3659,98 3658,69 3471,64 3390,89 3278,89 3144,65 2983,62 2916,84 2790,93 2577,86"/>
+                                <TextEquiv>
+            <Unicode>insin i d 6 Februari 1702.</Unicode>
+        </TextEquiv>
+                        <PredScore pred_score="0.9688687530847696"/>
+            </TextLine>
+    </TextRegion>
+    <TextRegion id="region_1" custom="readingOrder {index:1;}">
+        <Coords points="3102,394 2931,511 2869,761 2597,829 2656,897 2622,1083 2709,1203 2614,1365 2601,1947 2521,2189 2525,3402 2863,3466 4476,3423 4529,3364 4538,1825 4502,1670 4369,1510 4664,1200 4598,1084 4575,843 4346,773 4538,700 4567,467 3428,507 3325,388"/>
+    <TextLine id="line_region_1_0" custom="readingOrder {index:0;}">
+                <Coords points="4531,557 4504,549 3470,570 3305,583 3291,634 3304,650 4505,633 4530,620"/>
+                                <TextEquiv>
+            <Unicode>ögwälbohrne Hl: Grefwe, Kongl. Mayestats</Unicode>
+        </TextEquiv>
+                        <PredScore pred_score="0.9395067721605301"/>
+            </TextLine>
+    <TextLine id="line_region_1_1" custom="readingOrder {index:1;}">
+                <Coords points="3987,705 3976,678 3957,663 3768,676 3727,644 3684,642 3501,680 3415,669 3338,685 3311,703 3298,753 3310,777 3341,786 3609,772 3931,770 3955,766 3968,755"/>
+                                <TextEquiv>
+            <Unicode>Råd och Præsident,</Unicode>
+        </TextEquiv>
+                        <PredScore pred_score="0.9655562606122758"/>
+            </TextLine>
+    <TextLine id="line_region_1_2" custom="readingOrder {index:2;}">
+                <Coords points="4225,710 4193,696 4182,697 4151,711 4108,709 4072,718 4036,737 4002,748 3983,761 3969,785 3970,830 3979,843 3996,849 4042,832 4153,829 4187,824 4201,814 4216,791 4219,743"/>
+                                <TextEquiv>
+            <Unicode>så och</Unicode>
+        </TextEquiv>
+                        <PredScore pred_score="0.9194955130418142"/>
+            </TextLine>
+    <TextLine id="line_region_1_3" custom="readingOrder {index:3;}">
+                <Coords points="3324,944 3344,963 3490,972 4021,963 4110,973 4153,992 4258,965 4383,961 4501,980 4540,946 4547,897 4535,858 4382,884 4055,855 3868,896 3803,883 3723,842 3385,897"/>
+                                <TextEquiv>
+            <Unicode>lög- och Wälbohrne, Ädle Ehrebohrne och</Unicode>
+        </TextEquiv>
+                        <PredScore pred_score="0.9718123720242426"/>
+            </TextLine>
+    <TextLine id="line_region_1_4" custom="readingOrder {index:4;}">
+                <Coords points="4554,1017 4517,987 4410,962 4382,937 4270,991 4225,998 4153,992 4114,969 4037,991 3454,997 3417,978 3381,977 3304,1014 3295,1094 3305,1115 3381,1093 3686,1067 3763,1084 3945,1071 4042,1098 4114,1079 4493,1059 4533,1046"/>
+                                <TextEquiv>
+            <Unicode>Högachtade respective Herrar Lands¬</Unicode>
+        </TextEquiv>
+                        <PredScore pred_score="0.9928852813584464"/>
+            </TextLine>
+    <TextLine id="line_region_1_5" custom="readingOrder {index:5;}">
+                <Coords points="4572,1135 4553,1099 4458,1061 4346,1070 4208,1110 4133,1107 4072,1077 3930,1099 3721,1077 3610,1116 3449,1107 3331,1123 3302,1137 3298,1212 3495,1230 3576,1203 3724,1237 3794,1206 3832,1204 3961,1238 4072,1196 4180,1192 4309,1219 4461,1185 4543,1181 4565,1169"/>
+                                <TextEquiv>
+            <Unicode>Höfdingar och samtel: Herrar Assessorer.</Unicode>
+        </TextEquiv>
+                        <PredScore pred_score="0.9834473565220833"/>
+            </TextLine>
+    <TextLine id="line_region_1_6" custom="readingOrder {index:6;}">
+                <Coords points="2716,1942 2999,1922 3224,1966 3300,1943 3407,1949 3508,1928 3729,1950 3763,1974 3799,1956 3957,1952 4037,1925 4308,1946 4494,1906 4502,1840 4475,1803 4385,1789 4067,1837 3956,1806 3799,1832 3686,1802 3414,1821 3302,1797 3180,1812 3071,1787 3033,1807 2844,1820 2728,1863"/>
+                                <TextEquiv>
+            <Unicode>Hans Kongl: Mayestäts Högbbepryseliga mildhet, som</Unicode>
+        </TextEquiv>
+                        <PredScore pred_score="0.9690501344203949"/>
+            </TextLine>
+    <TextLine id="line_region_1_7" custom="readingOrder {index:7;}">
+                <Coords points="2637,2047 2648,2071 2802,2083 3016,2058 3229,2060 3455,2099 3498,2075 3638,2052 3883,2052 4131,2079 4418,2073 4487,2017 4474,1992 4417,1965 4275,1943 3877,1977 3535,1936 3339,1971 2795,1961 2694,1986 2648,1971"/>
+                                <TextEquiv>
+            <Unicode>i regard till Eders Grefl: Excellences och Höglofl. Kongl:</Unicode>
+        </TextEquiv>
+                        <PredScore pred_score="0.9596892564461149"/>
+            </TextLine>
+    <TextLine id="line_region_1_8" custom="readingOrder {index:8;}">
+                <Coords points="2530,2172 2572,2237 2610,2252 2765,2249 2995,2208 3380,2223 3841,2207 4033,2248 4145,2211 4379,2232 4535,2188 4538,2138 4461,2083 4218,2100 3958,2078 3844,2116 3411,2135 3107,2061 2994,2108 2598,2108 2549,2131"/>
+                                <TextEquiv>
+            <Unicode>Collegii favoradle befordran, genom den allernådigst förundte Rese</Unicode>
+        </TextEquiv>
+                        <PredScore pred_score="0.9685776125301014"/>
+            </TextLine>
+    <TextLine id="line_region_1_9" custom="readingOrder {index:9;}">
+                <Coords points="4458,2291 4421,2240 4285,2248 4230,2212 4187,2210 4115,2257 4052,2268 3887,2242 3715,2268 3532,2235 3413,2265 3194,2251 2604,2274 2559,2291 2552,2334 2568,2375 2741,2361 3559,2365 3729,2404 3837,2363 4194,2361 4346,2387 4444,2358"/>
+                                <TextEquiv>
+            <Unicode>pensionen mig är wederfaren, omfattar jag med allerunderdånigste</Unicode>
+        </TextEquiv>
+                        <PredScore pred_score="0.9931155731901526"/>
+            </TextLine>
+    <TextLine id="line_region_1_10" custom="readingOrder {index:10;}">
+                <Coords points="4485,2479 4470,2444 4411,2416 4111,2398 4072,2364 3993,2359 3874,2403 3608,2424 3495,2405 3470,2371 3106,2397 2991,2394 2912,2361 2798,2402 2682,2394 2579,2419 2542,2489 2566,2530 2603,2541 2927,2523 3071,2563 3183,2522 3309,2540 3430,2520 3873,2513 4264,2562 4452,2517"/>
+                                <TextEquiv>
+            <Unicode>wyrdna och ödmiukaste tacksamhet; Och alldenstund sam¬</Unicode>
+        </TextEquiv>
+                        <PredScore pred_score="0.9916399077132896"/>
+            </TextLine>
+    <TextLine id="line_region_1_11" custom="readingOrder {index:11;}">
+                <Coords points="4461,2602 4440,2572 4398,2562 4233,2585 3779,2561 3347,2579 2772,2565 2567,2583 2538,2601 2535,2642 2568,2670 3204,2668 3458,2701 3622,2666 3993,2667 4194,2713 4439,2669"/>
+                                <TextEquiv>
+            <Unicode>ma Medel warit i nåder egentl: der till destinerade att jag skulle</Unicode>
+        </TextEquiv>
+                        <PredScore pred_score="0.9932536473779967"/>
+            </TextLine>
+    <TextLine id="line_region_1_12" custom="readingOrder {index:12;}">
+                <Coords points="4487,2786 4455,2710 4371,2677 4287,2716 4093,2748 3878,2709 3738,2728 3612,2709 3218,2721 3039,2695 2814,2721 2678,2712 2553,2734 2533,2795 2548,2827 2680,2837 3499,2822 3651,2869 3793,2823 3916,2865 3994,2844 4230,2860 4463,2823"/>
+                                <TextEquiv>
+            <Unicode>medelst en Resa till de utländske Bergwerken göra mig informerad</Unicode>
+        </TextEquiv>
+                        <PredScore pred_score="0.973926080390811"/>
+            </TextLine>
+    <TextLine id="line_region_1_13" custom="readingOrder {index:13;}">
+                <Coords points="2512,2878 2512,2974 2593,2994 3769,2974 4228,2980 4341,3004 4473,2977 4496,2945 4491,2894 4458,2873 3831,2867 3802,2825 3613,2891 3478,2872 3389,2823 3189,2873 3066,2872 3031,2832 2955,2826 2742,2873 2569,2858"/>
+                                <TextEquiv>
+            <Unicode>uti det som Bergswesks Saker och connoissancer tillhörer och blifwa</Unicode>
+        </TextEquiv>
+                        <PredScore pred_score="0.9712659823360728"/>
+            </TextLine>
+    <TextLine id="line_region_1_14" custom="readingOrder {index:14;}">
+                <Coords points="4466,3061 4423,3016 4323,3022 4274,2987 4228,2983 4080,3033 3905,3001 3325,3045 3115,3010 2967,3029 2566,3025 2532,3073 2535,3136 3465,3123 3845,3127 3960,3150 4430,3127 4461,3111"/>
+                                <TextEquiv>
+            <Unicode>således capadle att tiena min allernådigste Konung och sädernes</Unicode>
+        </TextEquiv>
+                        <PredScore pred_score="0.9708088253225599"/>
+            </TextLine>
+    <TextLine id="line_region_1_15" custom="readingOrder {index:15;}">
+                <Coords points="4449,3209 4432,3175 4347,3151 4173,3170 4114,3145 3802,3158 3639,3138 3496,3183 3181,3165 3010,3188 2840,3167 2685,3173 2567,3150 2538,3176 2532,3253 2567,3276 2766,3270 3057,3296 3185,3250 3483,3248 3608,3294 3682,3251 3840,3248 3994,3299 4064,3256 4394,3263 4429,3252"/>
+                                <TextEquiv>
+            <Unicode>landet, det jag mig ock i alla mina lifsdagar trol:n bör och skall</Unicode>
+        </TextEquiv>
+                        <PredScore pred_score="0.9860690100626512"/>
+            </TextLine>
+    <TextLine id="line_region_1_16" custom="readingOrder {index:16;}">
+                <Coords points="2534,3333 2536,3394 2553,3408 2877,3440 3024,3403 3419,3428 3648,3396 3911,3419 4045,3407 4156,3431 4425,3396 4451,3369 4453,3294 4426,3276 4336,3292 4226,3275 4001,3306 3724,3279 3599,3297 3490,3252 3384,3295 3189,3264 3062,3305 2639,3291 2556,3305"/>
+                                <TextEquiv>
+            <Unicode>näst Gudshielp ombeflyta, fördenskull har jag ock i föllie af</Unicode>
+        </TextEquiv>
+                        <PredScore pred_score="0.9814336710288877"/>
+            </TextLine>
+    </TextRegion>
+    </Page>
+</PcGts>
